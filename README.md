@@ -7,7 +7,7 @@ Formada recentemente em Tecnologia em Sistemas para Internet, embora novata na �
  <br/> :blush: &nbsp; Posso te auxiliar com HTML5 CSS Grid Layout e Flexbox
  <br/> :computer: &nbsp; Stack em processo: Python, ReactJS, React Native
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, seriados no Netflix, e idiomas: a propósito, Francês é lindo:two_hearts: :joy:
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelaMeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafaela-saiotti-331477115)](https://br.linkedin.com/in/rafaela-saiotti-331477115/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RafaelaMeira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rafaela-meira-331477115)](https://br.linkedin.com/in/rafaela-meira-331477115/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-meirarafaela@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:meirarafaela@hotmail.com)
 
