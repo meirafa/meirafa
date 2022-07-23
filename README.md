@@ -4,7 +4,7 @@ Estudante de Desenvolvimento Full Stack, apaixonada por cada descoberta! 💙
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Júnior;Aprofundando%20em%20NodeJS%20e%20Java;Interesse%20em%20Swift;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Júnior;Aprofundando%20em%20Angular%20e%20Java;Interesse%20em%20Swift;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ✨ Principais linguagens e ferramentas:
