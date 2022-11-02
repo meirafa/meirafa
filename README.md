@@ -4,7 +4,7 @@ Estudante de Desenvolvimento Full Stack, apaixonada por cada descoberta! 💙
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Júnior;Aprofundando%20em%20Angular%20e%20Java;Interesse%20em%20Swift;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Júnior;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 ✨ Principais linguagens e ferramentas:
@@ -12,11 +12,11 @@ Estudante de Desenvolvimento Full Stack, apaixonada por cada descoberta! 💙
 
 ## 📫 Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
 
-<!-- <p align="center">
+ <p align="center">
   <a href="https://github.com/meirafa">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meirafa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirafa&layout=compact&langs_count=7&theme=onedark"/>
 </a> 
   </p>
-<h6 align="center">Objetivo: Em busca de conhecimento para que consiga impactar positivamente, por meio da tecnologia, a vida de muitos que necessitam de auxílio.</h6>
+<!-- <h6 align="center">Objetivo: Em busca de conhecimento para que consiga impactar positivamente, por meio da tecnologia, a vida de muitos que necessitam de auxílio.</h6>
  -->
