@@ -1,6 +1,6 @@
 # 👋 Olá, sou a Rafa!
 
-Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada descoberta! 💙 &nbsp; &nbsp; &nbsp; 📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
+Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada descoberta! 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -37,7 +37,7 @@ Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada de
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 
 <h6>Mobile:</h6>
   
@@ -45,11 +45,12 @@ Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada de
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-<h6>Teste:</h6>
+<h6>QA:</h6>
   
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)&nbsp;
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)&nbsp;
+![RobotFramework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)&nbsp;
 
 <h6>Design:</h6>
   
@@ -58,7 +59,7 @@ Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada de
 ![Invision](https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white)&nbsp;
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)&nbsp;
 
-<h6>Cloud:</h6>
+<h6>DevOps:</h6>
   
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-555?style=for-the-badge&logo=github&logoColor=white)&nbsp;
@@ -68,7 +69,7 @@ Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada de
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Jenkins](https://img.shields.io/badge/Jenkins-DDB500?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
 
-<h6>Outros:</h6>
+<h6>Agile:</h6>
   
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=whites)&nbsp;
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
@@ -76,6 +77,7 @@ Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada de
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)&nbsp;
 ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)&nbsp;
 ![Monday](https://img.shields.io/badge/Monday-00E900?style=for-the-badge&logo=Monday&logoColor=white)&nbsp;
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)&nbsp;
 
 </details>
