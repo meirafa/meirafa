@@ -1,6 +1,6 @@
 # 👋 Olá, sou a Rafa!
 
-Estudante de Desenvolvimento Full Stack, <strong>apaixonada</strong> por cada descoberta! 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
+Desenvolvedora Full Stack Jr, <strong>apaixonada</strong> por cada descoberta! 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
