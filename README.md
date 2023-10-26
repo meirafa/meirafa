@@ -1,17 +1,17 @@
 # 👋 Olá, sou a Rafa!
 
-Desenvolvedora Full Stack Jr, <strong>apaixonada</strong> por cada descoberta! 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
+Desenvolvedora Mobile & Full Stack Jr 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Júnior;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Apaixonada%20por%20cada%20descoberta;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
     </a>
 </p>
 
 <details>
   <summary>
-    &nbsp; ✨ Principais linguagens e ferramentas:
+    &nbsp; ✨ Linguagens e ferramentas desenvolvidas:
   </summary>
 
 <h6>Front-end:</h6>
