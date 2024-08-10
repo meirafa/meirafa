@@ -1,17 +1,15 @@
-# 👋 Olá, sou a Rafa!
+## 👋 Olá, sou a Rafa!
 
-Desenvolvedora Mobile & Full Stack 💙 &nbsp; 📫 [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Meira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
+Desenvolvedora Full Stack | Docente TI 💙 Apaixonada por cada descoberta.
+<br/><br/>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedora;Apaixonada%20por%20cada%20descoberta;Lifelong%20learning&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-    </a>
-</p>
+> ＂Trabalhe com propósito e amor, visando um futuro do qual possa se orgulhar.＂
+
+<br/>
 
 <details>
   <summary>
-    &nbsp; ✨ Linguagens e ferramentas desenvolvidas:
+    &nbsp; ✨ Linguagens e ferramentas desenvolvidas durante minha jornada acadêmica e profissional:
   </summary>
 
 <h6>Front-end:</h6>
@@ -89,3 +87,5 @@ Desenvolvedora Mobile & Full Stack 💙 &nbsp; 📫 [![Linkedin Badge](https://i
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirafa&layout=compact&langs_count=7&theme=onedark"/> 
     </a> 
 </p>
+
+📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Saiotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
