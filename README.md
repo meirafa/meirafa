@@ -88,4 +88,4 @@ Desenvolvedora Full Stack | Docente TI 💙 Apaixonada por cada descoberta.
     </a> 
 </p>
 
-📫 &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Saiotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rafaela_Saiotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/meirarafa/)](https://br.linkedin.com/in/meirarafa/)
