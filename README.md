@@ -81,7 +81,7 @@ Desenvolvedora Full Stack | Docente TI 💙 Apaixonada por cada descoberta.
 </details>
 
 <br/>
-<p align="center"> 
+<p align="start"> 
     <a href="https://github.com/meirafa"> 
         <img height="150em" src="https://github-readme-stats.vercel.app/api?username=meirafa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/> 
         <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirafa&layout=compact&langs_count=7&theme=onedark"/> 
